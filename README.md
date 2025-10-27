@@ -3,6 +3,10 @@ This General Purpose ECU was developed as the core project of my Bachelor's thes
 an **Intra-Zone ECU**, or a **Peripheral Device**. This development establishes a foundational component for test setups dedicated to researching future automotive architectures.
 
 ## Concept
+The use cases of the board can be seen in the picture below.
+
+<img width="637" height="502" alt="image" src="https://github.com/user-attachments/assets/fc9d58be-4bb6-4322-83e8-623883863b65" />
+
 In order to implement this versatility, several bus interfaces were implemented on the board.
 
 <img width="1082" height="510" alt="image" src="https://github.com/user-attachments/assets/993adcf4-a051-437a-9e97-c5f93d3d194d" />
