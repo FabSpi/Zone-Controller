@@ -1,0 +1,231 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ATMEGA649A-AU
+D ATMEGA649A-AU, 8 bit AVR Microcontroller 16MHz 2 kB, 64 kB Flash, 4 kB RAM, I2C 64-Pin TQFP
+K
+F http://www.atmel.com/images/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_summary.pdf
+$ENDCMP
+#
+$CMP STM32F103CBT6TR
+D STMICROELECTRONICS - STM32F103CBT6TR - ARM MCU, STM32 Family STM32F1 Series Microcontrollers, ARM Cortex-M3, 32bit, 72 MHz, 128 KB, 20 KB
+K
+F https://www.st.com/resource/en/datasheet/stm32f103cb.pdf
+$ENDCMP
+#
+$CMP MFS2633AMBA0AD
+D Safety System Basis Chip with Low Power for ASIL D / ASIL B
+K
+F https://www.mouser.co.uk/datasheet/2/302/PB_FS26-3006973.pdf
+$ENDCMP
+#
+$CMP PMEG4050EP,115
+D Nexperia PMEG4050EP,115 SMT Schottky Diode, 40V 5A, 2-Pin SOD-128
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG4050EP.pdf
+$ENDCMP
+#
+$CMP 500SSP3S1M6QEA
+D SLIDE, 5A, 120VAC/28VDC SPDT, On-Off-On Through Hole, Right Angle
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/500SSP3S1M6QEA.pdf
+$ENDCMP
+#
+$CMP 0458003.DR
+D Littelfuse 3A Non-Resettable Surface Mount Fuse, 75V
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_458_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP BUK9D23-40EX
+D MOSFET BUK9D23-40E/SOT1220 SOT1220
+K
+F https://componentsearchengine.com/Datasheets/2/BUK9D23-40EX.pdf
+$ENDCMP
+#
+$CMP BC846BT116
+D ROHM BC846BT116 NPN Transistor, 120 mA, 65 V, 3-Pin SOT-23
+K
+F https://docs.rs-online.com/0f5f/0900766b816caf5f.pdf
+$ENDCMP
+#
+$CMP MMSZ8V2T1G
+D 500 mW, 8.2 V +/-5% ZenerDiodeVoltage Regulator
+K
+F http://www.onsemi.com/pub/Collateral/MMSZ2V4T1-D.PDF
+$ENDCMP
+#
+$CMP SI2302ADS-T1-E3
+D N-Channel 20 V 2.1A (Ta) 700mW (Ta) Surface Mount SOT-23-3 (TO-236)
+K
+F https://componentsearchengine.com/Datasheets/2/SI2302ADS-T1-E3.pdf
+$ENDCMP
+#
+$CMP BC847BVN-7
+D Diodes Inc BC847BVN-7 Dual NPN+PNP Bipolar Transistor, 100 mA, 45 V, 6-Pin SOT-563
+K
+F https://www.diodes.com//assets/Datasheets/ds30627.pdf
+$ENDCMP
+#
+$CMP BC857BT116
+D ROHM BC857BT116 PNP Transistor, 100 mA, -45 V, 3-Pin SOT-23
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/bipolar/bc857bu3t106-e.pdf
+$ENDCMP
+#
+$CMP BC847BW-7-F
+D TRANSISTOR
+K
+F https://www.diodes.com//assets/Datasheets/BC846AW-BC848CW.pdf
+$ENDCMP
+#
+$CMP BLM18KG121TZ1D
+D BLM18_Z1D Series EMI Suppression Filter 120+/-25% at 100MHz 3A @85
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP PESD2CANFD36LQB-QZ
+D PESD2CANFD36LQB-Q - Extremely low clamping bidirectional ESD protection diode@en-us ,Low clamping voltage: typical VCL = 42 V at Ipp = 1 A , SOT8015
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD2CANFD36LQB-Q.pdf
+$ENDCMP
+#
+$CMP TJA1022T
+D DUAL LIN 2.2/SAE J2602 TRANSCEIVER Interface Circuit, PDSO14
+K
+F https://componentsearchengine.com/Datasheets/1/TJA1022T.pdf
+$ENDCMP
+#
+$CMP TJA1022TK,118
+D NXP - TJA1022TK,118 - LIN TRANSCEIVER, AEC-Q100, HVSON-14
+K
+F http://www.nxp.com/docs/en/data-sheet/TJA1022.pdf
+$ENDCMP
+#
+$CMP 830033075
+D Crystals WE-XTAL 25.0MHz 50ppm 5.0 x 3.2mm
+K
+F https://www.we-online.com/catalog/datasheet/830033075.pdf
+$ENDCMP
+#
+$CMP DLW32MH201XK2L
+D DLW32MH_K2L Series EMI Suppression Filter 200uH 70mA 50V
+K
+F https://www.murata.com/en-us/products/productdetail?partno=DLW32MH201XK2%23
+$ENDCMP
+#
+$CMP 8.06.04_J-LINK_NEEDLE_ADAPTER
+D J-LINK TO PCB NEEDLE ADAPTER
+K
+F https://snapeda.s3.amazonaws.com/datasheets/1581509.pdf
+$ENDCMP
+#
+$CMP S32K344EHT1MPBST
+D ARM Microcontrollers - MCU S32K344, 4MB flash, ARM M7 Lockstep core
+K
+F https://www.nxp.com/docs/en/data-sheet/S32K3xx.pdf
+$ENDCMP
+#
+$CMP ECS-3953M-500-BN-TR
+D Standard Clock Oscillators 3.3V 50MHz EXTENDED TEMP
+K
+F https://www.mouser.com/datasheet/2/122/ecs-3951m-bn-3953m-bn-17249.pdf
+$ENDCMP
+#
+$CMP BCP56-10TX
+D Bipolar Transistors - BJT BCP56-10T/SC-73/REEL 7" Q1/T1
+K
+F https://assets.nexperia.com/documents/data-sheet/BCP56T_SER.pdf
+$ENDCMP
+#
+$CMP ECS-1612MV-271.2-CN-TR
+D Standard Clock Oscillators 27.120 MHz CMOS +/-25ppm -40 - 85C 4-SMD 1.6 - 3.63V  1.6 x 1.2mm ECX-1612MV
+K
+F https://ecsxtal.com/store/pdf/ECS-1612MV.pdf
+$ENDCMP
+#
+$CMP 830108288709
+D Standard 3.2 x 2.5mm SMD crystal in a ceramic package with a seam sealed metal lid, hermetically sealed
+K
+F https://www.we-online.com/catalog/datasheet/830108340709.pdf
+$ENDCMP
+#
+$CMP ECS-160-10-36Q-ES-TR
+D 16 MHz +/-30ppm Crystal 10pF 80 Ohms 4-SMD, No Lead
+K
+F https://www.ecsxtal.com/store/pdf/ECX-2236Q.pdf
+$ENDCMP
+#
+$CMP TFPT1206L1002FM
+D PTC Thermistors PTC 10Kohms 1% Linear
+K
+F https://eu.mouser.com/datasheet/2/427/VISH_S_A0009735813_1-2570778.pdf
+$ENDCMP
+#
+$CMP EEE-FN1J470V
+D Aluminium Electroyltic Capacitor, Radial, Vibration-Proof
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1259.pdf
+$ENDCMP
+#
+$CMP HSMS-C170
+D HE-red 0805 chip-LED HSMS-C170 Avago HSMS Series Red LED, 10 mcd 170  0805
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00083853.pdf
+$ENDCMP
+#
+$CMP HSMG-C170
+D Green LED, 15 mcd 170 , 2-pin 0805 SMD Package
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00083853.pdf
+$ENDCMP
+#
+$CMP MPLC0730L4R7
+D 4.7 H Shielded Wirewound Inductor 5 A 41mOhm Max 2-SMD, J-Lead
+K
+F https://www.kemet.com/en/us/search.html?q=MPLC0730L4R7
+$ENDCMP
+#
+$CMP 74477110W
+D WURTH ELEKTRONIK - 74477110W - Power Inductor (SMD), 10 H, 5 A, Shielded, 5.5 A, 12mm x 12mm x 6.5mm
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Wurth%20Electronics%20PDFs/74477110W.pdf
+$ENDCMP
+#
+$CMP IFSC2020DZER1R0N01
+D Power Inductors - SMD 1UH 5.1A 16 MOHM SMD
+K
+F https://www.vishay.com/docs/34639/ifsc2020dz-01.pdf
+$ENDCMP
+#
+$CMP FSM2JSMAATR
+D Body Features: Cover Material Steel | Case Material Polyamide | Actuator Force 9.17 OZ | Case Color Brown | Product Orientation Vertical | Actuator Color White | Actuator Force 260 G | Actuator Material Nylon | Actuator Profile Extended | Configuration Features: Ganged With | Configuration (Pole-Throw) Single Pole - Single Throw | Support Bracket Without | Switch Feedback Type Tactile | Number of Actuators Single | ESD Grounding Terminal Without | Operating Function NO | Contact Features: Switch Contact Pla
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1654270-2&DocType=Catalog%20Section&DocLang=English&PartCntxt=2-1437565-9&DocFormat=pdf
+$ENDCMP
+#
+$CMP TJA1101BHN_0Z
+D Ethernet ICs PHY ETHERNET
+K
+F https://www.nxp.com.cn/docs/en/data-sheet/TJA1101B.pdf
+$ENDCMP
+#
+$CMP 500762-0481
+D CMC Header Right Angle 48 Circuits Molex 500762-0481, 48 Way 4 Row Black CMC Series Male Through Hole Header, Solder Termination
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/7c53a4fb757944cf2c1fd37c9b3ea65a.pdf
+$ENDCMP
+#
+$CMP 8.06.04
+D Sockets & Adapters J-Link Needle Adapter 20/10
+K
+F https://www.mouser.in/datasheet/2/359/J-Link_6-pin_Adapter-772333.pdf
+$ENDCMP
+#
+#End Doc Library

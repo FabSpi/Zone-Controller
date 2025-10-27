@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NXP_FS26")(type "KiCad")(uri "D:/BA/GIT/gp-ecu/KiCAD_libs/NXP_FS26.kicad_sym")(options "")(descr ""))
+  (lib (name "NXP_TJA1103")(type "KiCad")(uri "D:/BA/GIT/gp-ecu/KiCAD_libs/NXP_TJA1103.kicad_sym")(options "")(descr ""))
+)
